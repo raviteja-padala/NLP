@@ -1,1 +1,15 @@
-# NLP
+# NLP projects
+
+[Text_Classification](https://github.com/raviteja-padala/NLP/tree/main/Text_Classification) : This section delves into the realm of text classification techniques. It offers a comprehensive discussion on methods to categorize text data. The practical application of these techniques is showcased through projects involving medical transcriptions, sentiment analysis on news articles, and classifying IMDb movie reviews.
+
+[Topic_Modelling](https://github.com/raviteja-padala/NLP/tree/main/Topic_Modelling) : In this segment, we provide an in-depth exploration of Dirichlet distribution applications and topic modeling. Additionally, we delve into evaluation techniques to assess the quality of topic models, shedding light on this vital aspect of natural language processing.
+
+[Cosine_Similarity_in_Text_Analysis.ipynb](https://github.com/raviteja-padala/NLP/blob/main/Cosine_Similarity_in_Text_Analysis.ipynb):  This section offers a deep dive into understanding the concept of cosine similarity in the context of text analysis. It elucidates how this mathematical measure plays a crucial role in quantifying the similarity between text documents.
+
+[/Extracting_medicines_from_Transcriptions.ipynb](https://github.com/raviteja-padala/NLP/blob/main/Extracting_medicines_from_Transcriptions.ipynb): In this project, we tackle the challenging task of medicine name extraction from textual data. We employ a brute-force approach to identify medicine names and validate them against existing medical databases and curated lists. Additionally, we harness the power of SciSpacy, a pre-trained Named Entity Recognition (NER) model (en_ner_bc5cdr_md-0.5.1), to extract information about diseases and drugs from clinical texts.
+
+[NLP_Text_Preprocessing.ipynb](https://github.com/raviteja-padala/NLP/blob/main/NLP_Text_Preprocessing.ipynb): This section provides a comprehensive guide to various text preprocessing techniques. It demonstrates how to transform raw text data into refined, analysis-ready text. These preprocessing methods are essential for ensuring the quality and reliability of text analysis results.
+
+[NLP_Text_Representation.ipynb](https://github.com/raviteja-padala/NLP/blob/main/NLP_Text_Representation.ipynb) :In this segment, we delve into the intricacies of text representation techniques. We uncover the power of feature extraction from text data, exploring methods such as One-Hot Encoding, Bag of Words (BoW), N-grams, Bag of N-grams, Tf-Idf (Term Frequency-Inverse Document Frequency), and custom feature engineering. These techniques are crucial for transforming text into a format suitable for machine learning.
+
+[Text_Summarization_Methods.ipynb](https://github.com/raviteja-padala/NLP/blob/main/Text_Summarization_Methods.ipynb): This section offers a comprehensive understanding of text summarization techniques. It covers both extractive and abstractive summarization methods. The focus is on Length-Based Extractive Summarization and Frequency-Based Extractive Summarization, shedding light on how to distill key information from text documents efficiently.
