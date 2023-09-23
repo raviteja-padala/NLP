@@ -20,12 +20,12 @@ Text classification, also known as text categorization or text tagging, is the p
 
 ## `Applications of Text Classification:`
 
-**Spam Email Detection:** Classify emails as spam or not spam.
-**Sentiment Analysis:** Determine the sentiment (positive, negative, neutral) in customer reviews or social media posts.
-**Topic Classification:** Categorize news articles into topics like politics, sports, or entertainment.
-**Language Identification:** Identify the language of a given text document.
-**Document Routing:** Automatically route documents to the appropriate department or team based on their content.
-**Content Recommendation:** Recommend articles, products, or content to users based on their interests.
+- **Spam Email Detection:** Classify emails as spam or not spam. <br>
+- **Sentiment Analysis:** Determine the sentiment (positive, negative, neutral) in customer reviews or social media posts. <br>
+- **Topic Classification:** Categorize news articles into topics like politics, sports, or entertainment. <br>
+- **Language Identification:** Identify the language of a given text document. <br>
+- **Document Routing:** Automatically route documents to the appropriate department or team based on their content. <br>
+- **Content Recommendation:** Recommend articles, products, or content to users based on their interests.
 
 
 
