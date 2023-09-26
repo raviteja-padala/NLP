@@ -16,7 +16,5 @@ Here are some key features typically found in the UCI ML Drug Review dataset:
 
 6. **Useful Count:** The number of users who found the review useful.
 
-7. **Not Useful Count:** The number of users who found the review not useful.
-
 
 - Dataset link : https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com
