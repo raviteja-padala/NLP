@@ -24,3 +24,4 @@ Here are some key features typically found in the UCI ML Drug Review dataset:
 
 
 - Dataset link : https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com
+- Citation : https://github.com/raviteja-padala/NLP/blob/main/Analysing_Drug_review_data/Aspect-Based%20Sentiment%20Analysis%20of%20Drug%20Reviews.pdf
